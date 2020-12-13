@@ -9,10 +9,17 @@
   "author": "jatin.vaidya@auth0.com",
   "license": "ISC",
   "dependencies": {
-    "csv-stringify-as-promised": "^2.0.3",
+    "bottleneck": "^2.19.3",
+    "child_process": "^1.0.2",
+    "csv-stringify-as-promised": "^2.0.5",
     "dotenv": "^6.2.0",
     "faker": "^4.1.0",
+    "log-timestamp": "^0.3.0",
+    "node-input-validator": "^4.2.1",
+    "os": "^0.1.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "yargs": "^13.2.2"
+    "yargs": "^13.3.0"
   }
 }
